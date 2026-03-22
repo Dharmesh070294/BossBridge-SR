@@ -1,6 +1,5 @@
 ## BossBridge
 
-## Overview
 BossBridge is a bridge-security portfolio project focused on signatures, approvals, replay scenarios, minting controls, and cross-chain system assumptions. It is designed to demonstrate practical bridge audit methodology and exploit reasoning.
 
 ## Why This Project Matters
